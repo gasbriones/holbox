@@ -1,0 +1,247 @@
+@media (min-width: 768px) {
+  .site-header {
+    padding-top: 1em;
+    background-color: rgba(250, 250, 250, 0.7); }
+
+  .storefront-secondary-navigation.woocommerce-active .site-header .site-branding {
+    width: 30%; }
+
+  .storefront-breadcrumb {
+    margin: 0 !important; }
+    .storefront-breadcrumb nav {
+      background: #584193;
+      box-sizing: border-box;
+      padding: 0.7142857143em;
+      color: white; }
+      .storefront-breadcrumb nav a {
+        color: white; } }
+.site-header .storefront-primary-navigation {
+  background-color: rgba(250, 250, 250, 0.4) !important; }
+.site-header .main-navigation ul.nav-menu {
+  margin-left: 0; }
+  .site-header .main-navigation ul.nav-menu li {
+    border-right: solid 1px #584193;
+    width: 20%;
+    text-align: center; }
+    .site-header .main-navigation ul.nav-menu li a {
+      line-height: initial;
+      padding-top: 0.625em;
+      padding-bottom: 0.625em;
+      color: #584193; }
+    .site-header .main-navigation ul.nav-menu li:last-child {
+      border-right: none; }
+    .site-header .main-navigation ul.nav-menu li:first-child {
+      margin-left: 15%; }
+      .site-header .main-navigation ul.nav-menu li:first-child:before {
+        content: 'QUIERO';
+        position: absolute;
+        background: #584193;
+        color: #fff;
+        left: -75%;
+        top: 0;
+        height: 100%;
+        width: 75%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold; }
+      .site-header .main-navigation ul.nav-menu li:first-child:after {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 30px 0 30px 19px;
+        border-color: transparent transparent transparent #584193;
+        content: ""; }
+.site-header .site-header-cart .cart-contents {
+  padding-top: 1.0625em;
+  padding-bottom: 1.0625em; }
+
+.site-footer {
+  background: #584193;
+  color: #fff; }
+  .site-footer .widget ul {
+    list-style: circle; }
+  .site-footer .widget-title {
+    border-bottom: 1px solid #785099; }
+  .site-footer a:not(.button) {
+    color: #fff; }
+
+.banner_wrapper .banner.banner-bajo-menu {
+  background: #fff;
+  border: none; }
+
+.entry-title {
+  font-size: 2.5em !important;
+  border-bottom: 1px solid #785099;
+  padding-bottom: 0.375em !important;
+  margin-bottom: 0.375em !important;
+  color: #584193; }
+
+.page-template-template-homepage .type-page {
+  padding-top: 0; }
+
+.content-area {
+  background: rgba(250, 250, 250, 0.5);
+  box-sizing: border-box;
+  padding: 0.625em 1.875em; }
+
+.widget-area {
+  background: rgba(250, 250, 250, 0.7);
+  box-sizing: border-box;
+  padding: 0.625em; }
+
+.widSSP {
+  width: 100% !important; }
+
+.secondary-navigation a[href*="dribbble.com"],
+.secondary-navigation a[href*="facebook.com"],
+.secondary-navigation a[href*="flickr.com"],
+.secondary-navigation a[href*="foursquare.com"],
+.secondary-navigation a[href*="plus.google.com"],
+.secondary-navigation a[href*="instagram.com"],
+.secondary-navigation a[href*="linkedin.com"],
+.secondary-navigation a[href*="pinterest.com"],
+.secondary-navigation a[href*="reddit.com"],
+.secondary-navigation a[href*="tumblr.com"],
+.secondary-navigation a[href*="twitter.com"],
+.secondary-navigation a[href*="vimeo.com"],
+.secondary-navigation a[href*="wordpress.com"],
+.secondary-navigation a[href*="wordpress.org"],
+.secondary-navigation a[href*="youtube.com"],
+.secondary-navigation a[href*="mailto:"],
+.secondary-navigation a[href*="twitch.tv"],
+.secondary-navigation a[href$="/feed/"] {
+  text-indent: -9999px; }
+
+.secondary-navigation a[href*="dribbble.com"]:after,
+.secondary-navigation a[href*="facebook.com"]:after,
+.secondary-navigation a[href*="flickr.com"]:after,
+.secondary-navigation a[href*="foursquare.com"]:after,
+.secondary-navigation a[href*="plus.google.com"]:after,
+.secondary-navigation a[href*="instagram.com"]:after,
+.secondary-navigation a[href*="linkedin.com"]:after,
+.secondary-navigation a[href*="pinterest.com"]:after,
+.secondary-navigation a[href*="reddit.com"]:after,
+.secondary-navigation a[href*="tumblr.com"]:after,
+.secondary-navigation a[href*="twitter.com"]:after,
+.secondary-navigation a[href*="vimeo.com"]:after,
+.secondary-navigation a[href*="wordpress.com"]:after,
+.secondary-navigation a[href*="wordpress.org"]:after,
+.secondary-navigation a[href*="youtube.com"]:after,
+.secondary-navigation a[href*="mailto:"]:after,
+.secondary-navigation a[href*="twitch.tv"]:after,
+.secondary-navigation a[href$="/feed/"]:after,
+.secondary-navigation .home-icon-menu a:after {
+  text-indent: 0;
+  display: block;
+  float: left; }
+
+.secondary-navigation a[href*="dribbble.com"]:after,
+.secondary-navigation a[href*="facebook.com"]:after,
+.secondary-navigation a[href*="flickr.com"]:after,
+.secondary-navigation a[href*="foursquare.com"]:after,
+.secondary-navigation a[href*="plus.google.com"]:after,
+.secondary-navigation a[href*="instagram.com"]:after,
+.secondary-navigation a[href*="linkedin.com"]:after,
+.secondary-navigation a[href*="pinterest.com"]:after,
+.secondary-navigation a[href*="reddit.com"]:after,
+.secondary-navigation a[href*="tumblr.com"]:after,
+.secondary-navigation a[href*="twitter.com"]:after,
+.secondary-navigation a[href*="vimeo.com"]:after,
+.secondary-navigation a[href*="wordpress.com"]:after,
+.secondary-navigation a[href*="wordpress.org"]:after,
+.secondary-navigation a[href*="youtube.com"]:after,
+.secondary-navigation a[href*="twitch.tv"]:after {
+  font-family: "Font Awesome 5 Brands";
+  font-weight: 400; }
+
+.secondary-navigation a[href*="mailto:"]:after,
+.secondary-navigation a[href$="/feed/"]:after,
+.secondary-navigation .home-icon-menu a:after,
+.secondary-navigation .faqs-icon-menu a:after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900; }
+
+.secondary-navigation a:after {
+  font-size: 1.25em;
+  margin-right: 0.25em; }
+
+.secondary-navigation .home-icon-menu a::after {
+  content: "\f015";
+  color: #000; }
+
+.secondary-navigation .faqs-icon-menu a::after {
+  content: "\f059";
+  color: #000;
+  float: left; }
+
+.secondary-navigation a[href$="/feed/"]:after {
+  content: "\f09e";
+  color: #ff9900; }
+
+.secondary-navigation a[href*="twitch.tv"]:after {
+  content: "\f1e8";
+  color: #6441A5; }
+
+.secondary-navigation a[href*="mailto:"]:after {
+  content: "\f0e0"; }
+
+.secondary-navigation a[href*="youtube.com"]:after {
+  content: "\f167";
+  color: #bb0000; }
+
+.secondary-navigation a[href*="wordpress.com"]:after, .secondary-navigation a[href*="wordpress.org"]:after {
+  content: "\f19a";
+  color: #0073aa; }
+
+.secondary-navigation a[href*="vimeo.com"]:after {
+  content: "\f194";
+  color: #aad450; }
+
+.secondary-navigation a[href*="tumblr.com"]:after {
+  content: "\f173";
+  color: #32506d; }
+
+.secondary-navigation a[href*="reddit.com"]:after {
+  content: "\f231"; }
+
+.secondary-navigation a[href*="twitter.com"]:after {
+  content: "\f099";
+  color: #00aced; }
+
+.secondary-navigation a[href*="dribbble.com"]:after {
+  content: "\f17d";
+  color: #ea4c89; }
+
+.secondary-navigation a[href*="facebook.com"]:after {
+  content: "\f09a";
+  color: #3b5998; }
+
+.secondary-navigation a[href*="flickr.com"]:after {
+  content: "\f16e";
+  color: #ff0084; }
+
+.secondary-navigation a[href*="foursquare.com"]:after {
+  content: "\f180";
+  color: #0072b1; }
+
+.secondary-navigation a[href*="plus.google.com"]:after {
+  content: "\f0d5";
+  color: #dd4b39; }
+
+.secondary-navigation a[href*="instagram.com"]:after {
+  content: "\f16d";
+  color: #517fa4; }
+
+.secondary-navigation a[href*="linkedin.com"]:after {
+  content: "\f0e1";
+  color: #007bb6; }
+
+.secondary-navigation a[href*="pinterest.com"]:after {
+  content: "\f231";
+  color: #cb2027; }
+
+/*# sourceMappingURL=holbox.css.map */

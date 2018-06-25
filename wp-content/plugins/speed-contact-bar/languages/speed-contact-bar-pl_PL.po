@@ -1,0 +1,560 @@
+# Copyright (C) 2014
+# This file is distributed under the same license as the Speed Contact Bar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Speed Contact Bar 4.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/speed-contact-bar\n"
+"POT-Creation-Date: 2017-12-11 17:49+0100\n"
+"PO-Revision-Date: 2017-12-11 17:54+0100\n"
+"Last-Translator: Martin Stehle <m.stehle@gmx.de>\n"
+"Language-Team: Martin Stehle <m.stehle@gmx.de>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-speed-contact-bar-admin.php:416
+msgid "Example"
+msgstr "Przykład"
+
+#: admin/class-speed-contact-bar-admin.php:417
+msgid "Enter a valid URL. If the URL is invalid it will not be used."
+msgstr ""
+"Podaj poprawny adres URL. Jeśli adres URL jest nieprawidłowy, nie będzie "
+"mógł być użyty."
+
+#: admin/class-speed-contact-bar-admin.php:418
+#, php-format
+msgid "Your URL on %s"
+msgstr "Twój URL na %s"
+
+#: admin/class-speed-contact-bar-admin.php:422
+msgid "Your Contact Data"
+msgstr "Twoje dane kontaktowe"
+
+#: admin/class-speed-contact-bar-admin.php:423
+msgid ""
+"Set the contact informations. To supress displaying a field leave it empty."
+msgstr "Ustaw dane kontaktowe. Aby wyłączyć wyświetlanie pola zostaw puste."
+
+#: admin/class-speed-contact-bar-admin.php:427
+msgid "Headline"
+msgstr "Nagłówek"
+
+#: admin/class-speed-contact-bar-admin.php:428
+msgid "Enter a short headline for the contact bar"
+msgstr "Wpisz krótki nagłówek dla paska kontaktowego"
+
+#: admin/class-speed-contact-bar-admin.php:432
+msgid "URL of the headline"
+msgstr "URL nagłówka"
+
+#: admin/class-speed-contact-bar-admin.php:433
+msgid ""
+"Enter a web address and the headline becomes a link. The address must start "
+"with http:// or https://"
+msgstr ""
+"Wprowadź adres internetowy a nagłówek zostanie linkiem. Adres musi "
+"rozpoczynać się z http:// lub https://"
+
+#: admin/class-speed-contact-bar-admin.php:437
+#: public/class-speed-contact-bar.php:831
+#: public/class-speed-contact-bar.php:841
+msgid "Postal address"
+msgstr "Adres pocztowy"
+
+#: admin/class-speed-contact-bar-admin.php:438
+msgid "Enter a short postal address for the contact bar"
+msgstr "Wprowadź krótki adres pocztowy do baru kontaktowego"
+
+#: admin/class-speed-contact-bar-admin.php:442
+msgid "URL of the postal address"
+msgstr "URL adres pocztowy"
+
+#: admin/class-speed-contact-bar-admin.php:443
+msgid ""
+"Enter a web address and the postal address becomes a link. The web address "
+"must start with http:// or https://"
+msgstr ""
+"Wprowadź adres pocztowy a nagłówek zostanie linkiem. Adres musi rozpoczynać "
+"się z http:// lub https://"
+
+#: admin/class-speed-contact-bar-admin.php:447
+msgid "E-Mail Address"
+msgstr "Adres e-mailowy"
+
+#: admin/class-speed-contact-bar-admin.php:448
+msgid ""
+"Enter a valid email address. If the email address is invalid it will not be "
+"used."
+msgstr ""
+"Podaj poprawny adres e-mail. Jeśli adres e-mail jest nieprawidłowy, nie "
+"będzie mógł być użyty."
+
+#: admin/class-speed-contact-bar-admin.php:452
+msgid "E-Mail Link Text"
+msgstr "E-mail link tekstowy"
+
+#: admin/class-speed-contact-bar-admin.php:453
+msgid ""
+"Enter a text for the email link, otherwise the email address will be "
+"displayed."
+msgstr ""
+"Podaj poprawny tekst odnośnik email, w przeciwnym wypadku będzie wyświetlany "
+"adres e-mail."
+
+#: admin/class-speed-contact-bar-admin.php:457
+#: public/class-speed-contact-bar.php:849
+msgid "Phone Number"
+msgstr "Numer telefonu"
+
+#: admin/class-speed-contact-bar-admin.php:458
+msgid ""
+"Enter your official contact phone number. Since web pages can be accessed "
+"worldwide the phone number should include the international dialing prefix "
+"of your country like +49 for Germany, making the number useable from any "
+"location."
+msgstr ""
+"Wpisz swój oficjalny numer telefonu kontaktowego. Strony internetowe są "
+"dostępne na całym świecie, więc dodaj swój kod kraju np. +48 dla Polski tak "
+"aby był osiągalny dla każdego."
+
+#: admin/class-speed-contact-bar-admin.php:462
+msgid "Phone Text"
+msgstr "Numer telefonu tekstowy"
+
+#: admin/class-speed-contact-bar-admin.php:463
+msgid ""
+"Enter a text for the phone link, otherwise the phone number will be "
+"displayed."
+msgstr ""
+"Podaj poprawny tekst odnośnik numer telefonu, w przeciwnym wypadku będzie "
+"wyświetlany numer telefonu."
+
+#: admin/class-speed-contact-bar-admin.php:467
+#: public/class-speed-contact-bar.php:850
+msgid "Fax Number"
+msgstr "Numer faksu"
+
+#: admin/class-speed-contact-bar-admin.php:468
+msgid ""
+"Enter your official contact fax number, including the international dialing "
+"prefix of your country."
+msgstr "Podaj swój numer faksu komórkowego, załączając kod swojego kraju."
+
+#: admin/class-speed-contact-bar-admin.php:472
+msgid "Fax Text"
+msgstr "Numer faksu tekstowy"
+
+#: admin/class-speed-contact-bar-admin.php:473
+msgid ""
+"Enter a text for the fax link, otherwise the fax number will be displayed."
+msgstr ""
+"Podaj poprawny tekst odnośnik numer faksu, w przeciwnym wypadku będzie "
+"wyświetlany numer faksu."
+
+#: admin/class-speed-contact-bar-admin.php:477
+#: public/class-speed-contact-bar.php:851
+msgid "Cell Phone Number"
+msgstr "Numer telefonu komórkowego"
+
+#: admin/class-speed-contact-bar-admin.php:478
+msgid ""
+"Enter your official contact cell phone number, including the international "
+"dialing prefix of your country."
+msgstr "Podaj swój numer telefonu komórkowego, załączając kod swojego kraju."
+
+#: admin/class-speed-contact-bar-admin.php:482
+msgid "Cell Phone Text"
+msgstr "Numer telefonu komórkowego tekstowy"
+
+#: admin/class-speed-contact-bar-admin.php:483
+msgid ""
+"Enter a text for the cell phone link, otherwise the cell phone number will "
+"be displayed."
+msgstr ""
+"Podaj poprawny tekst odnośnik numer telefonu komórkowego, w przeciwnym "
+"wypadku będzie wyświetlany numer telefonu komórkowego."
+
+#: admin/class-speed-contact-bar-admin.php:522
+msgid "Your Skype name"
+msgstr "Twoja nazwa Skype"
+
+#: admin/class-speed-contact-bar-admin.php:523
+msgid "Enter your Skype username, not your email address or phone number."
+msgstr ""
+"Wprowadź swoją nazwę użytkownika Skype, a nie adres e-mail lub numer "
+"telefonu."
+
+#: admin/class-speed-contact-bar-admin.php:573
+msgid "Appeareance of the contact bar"
+msgstr "Wygląd paska kontaktowego"
+
+#: admin/class-speed-contact-bar-admin.php:574
+msgid "Set the graphical properties of the contact bar."
+msgstr "Ustaw graficzne właściwości paska kontaktowego."
+
+#: admin/class-speed-contact-bar-admin.php:578
+msgid "Maximal viewport width to hide the bar"
+msgstr "Maksymalna szerokość aby ukryć pasek"
+
+#: admin/class-speed-contact-bar-admin.php:579
+msgid ""
+"Select the maximal viewport width for hiding the bar. 480px and below = hide "
+"in smartphones; 1024px and below = probably tablets."
+msgstr ""
+"Wybierz maksymalny rozmiar szerokości do ukrycia paska. 480px i niżej = "
+"ukryj w smartfonach; 1024px i niżej = prawdopodobnie w tabletach."
+
+#: admin/class-speed-contact-bar-admin.php:580
+msgid "never hide"
+msgstr "nie ukrywaj"
+
+#: admin/class-speed-contact-bar-admin.php:580
+msgid "320px"
+msgstr "320px"
+
+#: admin/class-speed-contact-bar-admin.php:580
+msgid "480px"
+msgstr "480px"
+
+#: admin/class-speed-contact-bar-admin.php:580
+msgid "640px"
+msgstr "640px"
+
+#: admin/class-speed-contact-bar-admin.php:580
+msgid "768px"
+msgstr "768px"
+
+#: admin/class-speed-contact-bar-admin.php:580
+msgid "1024px"
+msgstr "1024px"
+
+#: admin/class-speed-contact-bar-admin.php:585
+msgid "Position of the bar"
+msgstr "Pozycja paska"
+
+#: admin/class-speed-contact-bar-admin.php:586
+msgid "Select the position of the bar on every page"
+msgstr "Ustaw pozycję paska na każdej stronie"
+
+#: admin/class-speed-contact-bar-admin.php:587
+msgid "at the top"
+msgstr "na górze"
+
+#: admin/class-speed-contact-bar-admin.php:587
+msgid "at the bottom"
+msgstr "na dole"
+
+#: admin/class-speed-contact-bar-admin.php:592
+msgid "Enable fixed position"
+msgstr "Włącz stałą pozycję"
+
+#: admin/class-speed-contact-bar-admin.php:593
+msgid "Display bar always visible (not available in mobile design)"
+msgstr "Pasek wyglądu zawsze widoczny (niedostępne w trybie mobilnym)"
+
+#: admin/class-speed-contact-bar-admin.php:597
+msgid "Height readjustment for fixed position"
+msgstr "Modyfikacja wysokości dla stałej pozycji"
+
+#: admin/class-speed-contact-bar-admin.php:598
+msgid ""
+"Readjust the space between the bar and the page content (not in mobile "
+"design)"
+msgstr ""
+"Modyfikuj odległość pomiędzy paskiem a zawartością strony (niedostępne w "
+"trybie mobilnym)"
+
+#: admin/class-speed-contact-bar-admin.php:604
+msgid "Vertical Padding"
+msgstr "Pionowe odstępy"
+
+#: admin/class-speed-contact-bar-admin.php:605
+msgid "Select the space between content and upper and lower border of the bar"
+msgstr "Ustaw odległość pomiędzy zawartością a górą dołem ramki paska"
+
+#: admin/class-speed-contact-bar-admin.php:611
+msgid "Horizontal Padding"
+msgstr "Odstęp poziomy"
+
+#: admin/class-speed-contact-bar-admin.php:612
+msgid "Select the space between content and left and right border of the bar"
+msgstr "Ustaw odległość pomiędzy zawartością a bokami lewo-prawo ramki paska"
+
+#: admin/class-speed-contact-bar-admin.php:618
+msgid "Transparent background"
+msgstr "Przeźroczyste tło"
+
+#: admin/class-speed-contact-bar-admin.php:619
+msgid "Activate to ignore the background color and to show a transparent bar"
+msgstr "Zaznacz aby ignorować kolor tła i użyć przeźroczystego paska"
+
+#: admin/class-speed-contact-bar-admin.php:623
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: admin/class-speed-contact-bar-admin.php:624
+msgid "Select the background color"
+msgstr "Wybierz kolot tła"
+
+#: admin/class-speed-contact-bar-admin.php:628
+msgid "Background Color Opacity"
+msgstr "Nieprzezroczystość koloru tła"
+
+#: admin/class-speed-contact-bar-admin.php:629
+msgid ""
+"Enter a number between 0.0 and 1.0 for 0.0 as no opacity (i.e. highest "
+"transparency) and 1.0 for highest opacity (i.e. no transparency)."
+msgstr ""
+"Wprowadź liczbę między 0.0 i 1.0 dla 0.0 jako nie krycia (czyli najwyższej "
+"przejrzystości) i 1.0 dla najwyższej krycie (tj nie przezroczystości)."
+
+#: admin/class-speed-contact-bar-admin.php:633
+msgid "Show shadow"
+msgstr "Pokaż cień"
+
+#: admin/class-speed-contact-bar-admin.php:634
+msgid ""
+"Activate to show a slight shadow under or above the bar depending on the "
+"position of the bar"
+msgstr ""
+"Zaznacz aby pokazać delikatny cień pod lub nad paskiem w zależności od "
+"pozycji paska"
+
+#: admin/class-speed-contact-bar-admin.php:639
+msgid "Appeareance of the headline"
+msgstr "Wygląd nagłówka"
+
+#: admin/class-speed-contact-bar-admin.php:640
+msgid "Set the graphical properties of the headline."
+msgstr "Ustaw właściwości graficzne nagłówka"
+
+#: admin/class-speed-contact-bar-admin.php:644
+msgid "Show headline"
+msgstr "Pokaż nagłówek"
+
+#: admin/class-speed-contact-bar-admin.php:645
+msgid "Activate to show the headline"
+msgstr "Zaznacz aby pokazać nagłówek"
+
+#: admin/class-speed-contact-bar-admin.php:649
+msgid "Keep headline in mobile devices"
+msgstr "Zatrzymaj nagłówek w urządzeniach mobilnych"
+
+#: admin/class-speed-contact-bar-admin.php:650
+msgid ""
+"Activate to keep displaying the headline in tablets and smartphones, else it "
+"will be hidden"
+msgstr ""
+"Zaznacz aby pokazywać nagłówek tylko w tabletach i smartfonach (w innym "
+"przypadku będzie ukryty)"
+
+#: admin/class-speed-contact-bar-admin.php:654
+msgid "Headline HTML Tag"
+msgstr "Kod HTML nagłówka"
+
+#: admin/class-speed-contact-bar-admin.php:655
+msgid ""
+"Select the HTML element for the headline without changing the headline style"
+msgstr "Wybierz element HTML dla nagłówka bez zmieniania stylu"
+
+#: admin/class-speed-contact-bar-admin.php:662
+msgid "Appeareance of texts and links"
+msgstr "Wygląd tekstów i łącz"
+
+#: admin/class-speed-contact-bar-admin.php:663
+msgid "Set the graphical properties of the texts and links in the contact bar."
+msgstr "Ustaw graficzne właściwości tekstów i łącz w pasku"
+
+#: admin/class-speed-contact-bar-admin.php:667
+msgid "Show texts on small displays"
+msgstr "Pokaż tekst na małych wyświetlaczach"
+
+#: admin/class-speed-contact-bar-admin.php:668
+msgid ""
+"Activate to keep the postal address, phone numbers and mail address "
+"displayed in small displays"
+msgstr ""
+"Aktywuj aby zachować adres pocztowy, numery telefonów i adres mailowy "
+"wyświetlony w małych "
+
+#: admin/class-speed-contact-bar-admin.php:672
+msgid "Text Alignment"
+msgstr "Rozmieszczenie tekstu"
+
+#: admin/class-speed-contact-bar-admin.php:673
+msgid "Select the alignment of the content within the bar"
+msgstr "Wybierz rozmieszczenie kontentu w pasku"
+
+#: admin/class-speed-contact-bar-admin.php:674
+msgid "left-aligned"
+msgstr "do-lewej"
+
+#: admin/class-speed-contact-bar-admin.php:674
+msgid "centered"
+msgstr "wyśrodkowane"
+
+#: admin/class-speed-contact-bar-admin.php:674
+msgid "right-aligned"
+msgstr "do-prawej"
+
+#: admin/class-speed-contact-bar-admin.php:679
+msgid "Font Size"
+msgstr "Rozmiar czcionki"
+
+#: admin/class-speed-contact-bar-admin.php:680
+msgid "Select the font size of the texts and links"
+msgstr "Wybierz rozmiar czcionki dla tekstów i linków"
+
+#: admin/class-speed-contact-bar-admin.php:686
+msgid "Text Color"
+msgstr "Kolor tekstu"
+
+#: admin/class-speed-contact-bar-admin.php:687
+msgid "Select the text color"
+msgstr "Wybierz kolor tekstu"
+
+#: admin/class-speed-contact-bar-admin.php:691
+msgid "Link Color"
+msgstr "Kolor linka"
+
+#: admin/class-speed-contact-bar-admin.php:692
+msgid "Select the link color"
+msgstr "Wybierz kolor linków"
+
+#: admin/class-speed-contact-bar-admin.php:696
+msgid "Open links in new windows"
+msgstr "Otwórz linki w nowych oknach"
+
+#: admin/class-speed-contact-bar-admin.php:697
+msgid "Activate to let the links load the target site in new windows or tabs"
+msgstr ""
+"Aktywuj aby umożliwić linkom załadowanie docelowej storny w nowym oknie lub "
+"kartach"
+
+#: admin/class-speed-contact-bar-admin.php:701
+msgid ""
+"Do not open the links of the postal address and the headline in new windows"
+msgstr "Nie otwieraj linku adresu pocztowego i nagłówka w nowych oknach"
+
+#: admin/class-speed-contact-bar-admin.php:702
+msgid ""
+"Activate to exclude the links of the postal address and the headline from "
+"the previous option to open them in the same window"
+msgstr ""
+"Zaznacz aby wykluczyć linki adresu pocztowego i nagłówek z poprzedniej "
+"opcji, aby otworzyć je w tym samym oknie"
+
+#: admin/class-speed-contact-bar-admin.php:707
+msgid "Appeareance of the icons"
+msgstr "Wygląd ikon"
+
+#: admin/class-speed-contact-bar-admin.php:708
+msgid "Set the graphical properties of the icons in the contact bar."
+msgstr "Ustaw graficzne właściwości ikon w pasku kontaktu."
+
+#: admin/class-speed-contact-bar-admin.php:712
+msgid "Icon Size"
+msgstr "Rozmiar ikon"
+
+#: admin/class-speed-contact-bar-admin.php:713
+msgid "Select the size of the icons"
+msgstr "Wybierz rozmiar ikon"
+
+#: admin/class-speed-contact-bar-admin.php:719
+msgid "Icon Brightness"
+msgstr "Jasność ikon"
+
+#: admin/class-speed-contact-bar-admin.php:720
+msgid "Select the brightness of the icons"
+msgstr "Wybierz jasność ikon"
+
+#: admin/class-speed-contact-bar-admin.php:721
+msgid "bright"
+msgstr "jasne"
+
+#: admin/class-speed-contact-bar-admin.php:721
+msgid "dark"
+msgstr "ciemne"
+
+#: admin/views/admin.php:32
+msgid "Credits and informations"
+msgstr "Informacje o autorach"
+
+#: admin/views/admin.php:34
+msgid "Do you like the plugin?"
+msgstr "Czy lubisz tę wtyczkę?"
+
+#: admin/views/admin.php:34
+msgid "Rate it at wordpress.org!"
+msgstr "Oceń na wordpress.org!"
+
+#: admin/views/admin.php:35
+msgid ""
+"The plugin is for free. But the plugin author would be delighted to your "
+"small contribution."
+msgstr ""
+"Ten plugin jest darmowy. Jednak autor plugina będzie uradowany drobną "
+"darowizną."
+
+#: admin/views/admin.php:35
+msgid "Donation Button"
+msgstr "Przycisk darowizny"
+
+#: admin/views/admin.php:35
+msgid "Donate with PayPal"
+msgstr "Wspomóż przez PayPal"
+
+#: admin/views/admin.php:36
+msgid "Do you need support or have an idea for the plugin?"
+msgstr "Czy potrzebujesz wsparcia lub masz pomysł na plugin?"
+
+#: admin/views/admin.php:36
+msgid "Post your questions and ideas in the forum at wordpress.org!"
+msgstr "Wyślij swoje pytania i pomysły na forum w wordpress.org!"
+
+#: admin/views/admin.php:37
+msgid "Idea and styles by"
+msgstr "Pomysł i stylizacja:"
+
+#: admin/views/admin.php:38
+msgid "Plugin development by"
+msgstr "Dewelopment wtyczki:"
+
+#: public/class-speed-contact-bar.php:418
+msgid "You do not have sufficient permissions to manage options for this site."
+msgstr ""
+"Nie masz wystarczających uprawnień aby zarządzać opcjami dla tej strony."
+
+#: public/class-speed-contact-bar.php:424
+msgid "Contact to us"
+msgstr "Skontaktuj się z nami"
+
+#: public/class-speed-contact-bar.php:547
+#, php-format
+msgid ""
+"The plugin requires WordPress version %s or higher. Therefore, WordPress did "
+"not activate it. If you want to use this plugin update the Wordpress files "
+"to the latest version."
+msgstr ""
+"Wtyczka wymaga WordPress w wersji %s lub wyższej. Jednakże WordPress nie "
+"aktywował go. Jeżeli chcesz użyć tej wtyczki aktualizuj Wordpress do "
+"najnowszej wersji."
+
+#: public/class-speed-contact-bar.php:894
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: public/class-speed-contact-bar.php:1247
+#, php-format
+msgid "Welcome to the plugin %s! You can configure it at %s."
+msgstr "Witamy w %s! Możesz skonfigurować wtyczkę w %s."

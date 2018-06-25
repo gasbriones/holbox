@@ -1,0 +1,68 @@
+*** Storefront Product Hero Changelog ***
+
+2017.09.21 - version 1.2.13
+* Tweak - Replace H1 with H3 tags.
+* Fix - Alignment of buttons on handheld devices.
+
+2017.06.12 - version 1.2.12
+* Fix - Prevent errors if WooCommerce is not installed.
+
+2017.06.01 - version 1.2.11
+* Fix - Add to cart notice appearing behind Product Hero on homepage.
+
+2017.04.13 - version 1.2.10
+* Fix - WooCommerce 3.0 compatibility.
+
+2017.03.13 - version 1.2.9
+* Fix - WooCommerce 2.6/2.7 compatibility.
+
+2017.03.06 - version 1.2.8
+* Fix - Overlay opacity.
+* Fix - WooCommerce 2.7 compatibility.
+
+2016.05.02 - version 1.2.7
+* Tweak - 'Display Product Price' option now also controls the display of the add to cart button.
+
+2016.04.28 - version 1.2.6
+* Fix - Price display setting.
+
+2016.04.18 - version 1.2.5
+* Fix - Subscriptions price.
+* Tweak - Product hero price layout.
+
+2016.02.24 - version 1.2.4
+* Fix - Hide price suffix.
+
+2016.01.25 - version 1.2.3
+* Tweak - Removed deprecated function usage.
+
+2015.11.05 - version 1.2.2
+* Fix - No longer hides off screen parallax elements.
+
+2015.09.05 - version 1.2.1
+* Fix - Product hero panel will now appear in the Customizer when using the Storefront homepage template on pages other than the homepage.
+* Fix - Image stretching when viewed on iOS device.
+
+2015.05.12 - version 1.2.0
+* New - Background image offset option.
+
+2015.04.29 - version 1.1.0
+ * New - Rearranged settings into Customizer Panels.
+ * New - Link color option.
+ * Tweak - Only display Customizer settings on homepage.
+ * Fix - Full height padding on small screens.
+
+2015.04.28 - version 1.0.4
+* Fix - Add to cart button no longer adds two products when used on the homepage.
+
+2015.04.27 - version 1.0.3
+* Fix - Improve animation smoothness.
+
+2015.04.14 - version 1.0.2
+* Fix - Component positioning when used as the first element in the homepage template.
+
+2015.03.19 - version 1.0.1
+* New - Allow HTML in description text when using the shortcode.
+
+2015.03.18 - version 1.0.0
+* Initial release
