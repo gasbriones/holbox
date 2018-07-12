@@ -60,20 +60,39 @@
   padding-bottom: 1.0625em; }
 
 .site-footer {
-  background: #584193;
+  background-image: url(assets/images/textures/bg-texture-pave3.png);
   color: #fff; }
   .site-footer .widget ul {
     list-style: circle; }
   .site-footer .widget-title {
-    border-bottom: 1px solid #785099; }
+    border-bottom: 1px solid white;
+    position: relative;
+    text-indent: 1.8181818182em;
+    padding: 0 0 0.4545454545em; }
+    .site-footer .widget-title:before {
+      position: absolute;
+      content: "";
+      top: 0;
+      left: 0;
+      width: 1.375em;
+      height: 1.375em;
+      background-color: #fff;
+      -webkit-mask: url(assets/images/site/maya-pyramid-svgrepo-com.svg) no-repeat;
+      mask: url(assets/images/site/maya-pyramid-svgrepo-com.svg) no-repeat; }
   .site-footer a:not(.button) {
     color: #fff; }
+  .site-footer .footer-widget-2 .widget-title:before {
+    -webkit-mask: url(assets/images/site/mexican-hat-svgrepo-com.svg) no-repeat;
+    mask: url(assets/images/site/mexican-hat-svgrepo-com.svg) no-repeat; }
+  .site-footer .footer-widget-3 .widget-title:before {
+    -webkit-mask: url(assets/images/site/mexican-mask-svgrepo-com.svg) no-repeat;
+    mask: url(assets/images/site/mexican-mask-svgrepo-com.svg) no-repeat; }
 
 .banner_wrapper .banner.banner-bajo-menu {
   background: #fff;
   border: none; }
 
-.entry-title {
+.entry-title:not(.alpha) {
   font-size: 2.5em !important;
   border-bottom: 1px solid #785099;
   padding-bottom: 0.375em !important;
@@ -95,6 +114,19 @@
 
 .widSSP {
   width: 100% !important; }
+
+.post {
+  margin: 2.5em 0 0; }
+  .post.category-atraccion .entry-header .posted-on {
+    visibility: hidden;
+    display: none; }
+  .post.category-atraccion .entry-meta {
+    visibility: hidden;
+    display: none; }
+  .post.category-atraccion .entry-content {
+    width: 100%; }
+  .post.category-atraccion .wp-post-image {
+    width: 100%; }
 
 .secondary-navigation a[href*="dribbble.com"],
 .secondary-navigation a[href*="facebook.com"],

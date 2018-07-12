@@ -1,7 +1,6 @@
 //Violetas
-$primary_color :  #584193 ;
-$secondary_color :  #785099;
-
+$primary_color: #584193;
+$secondary_color: #785099;
 
 //Rojos
 //$primary_color :  #D83931 ;
@@ -10,7 +9,6 @@ $secondary_color :  #785099;
 //Verdes
 //$primary_color :  #72B155 ;
 //$secondary_color :  #9EC654;
-
 
 @media (min-width: 768px) {
   .site-header {
@@ -30,12 +28,19 @@ $secondary_color :  #785099;
       box-sizing: border-box;
       padding: (10em/14);
       color: white;
-      a{
+      a {
         color: white;
       }
     }
   }
 }
+
+.site-content{
+ // background: url(assets/images/site/flamenco.png) bottom left no-repeat / 50%;
+
+}
+
+
 
 .site-header {
   .storefront-primary-navigation {
@@ -101,20 +106,53 @@ $secondary_color :  #785099;
 }
 
 .site-footer {
-  background: $primary_color;
+  background-image: url(assets/images/textures/bg-texture-pave3.png);
   color: #fff;
   .widget ul {
     list-style: circle;
   }
-  .widget-title{
-    border-bottom: 1px solid $secondary_color;
+  .widget-title {
+    border-bottom: 1px solid white;
+    position: relative;
+    text-indent: (40em/22);
+    padding: 0 0 (10em/22);
+
+    &:before {
+      position: absolute;
+      content: "";
+      top: 0;
+      left: 0;
+      width: (22em/16);
+      height: (22em/16);
+      background-color: #fff;
+      -webkit-mask: url(assets/images/site/maya-pyramid-svgrepo-com.svg) no-repeat;
+      mask: url(assets/images/site/maya-pyramid-svgrepo-com.svg) no-repeat;
+    }
   }
-  a:not(.button){
+  a:not(.button) {
     color: #fff;
+  }
+
+  .footer-widget-2 {
+    .widget-title {
+      &:before {
+        -webkit-mask: url(assets/images/site/mexican-hat-svgrepo-com.svg) no-repeat;
+        mask: url(assets/images/site/mexican-hat-svgrepo-com.svg) no-repeat;
+      }
+    }
+  }
+
+  .footer-widget-3 {
+    .widget-title {
+      &:before {
+        -webkit-mask: url(assets/images/site/mexican-mask-svgrepo-com.svg) no-repeat;
+        mask: url(assets/images/site/mexican-mask-svgrepo-com.svg) no-repeat;
+      }
+    }
   }
 }
 
-.banner_wrapper .banner{
+.banner_wrapper .banner {
   &.banner-bajo-menu {
     background: #fff;
     border: none;
@@ -122,7 +160,7 @@ $secondary_color :  #785099;
 
 }
 
-.entry-title {
+.entry-title:not(.alpha) {
   font-size: (40em/16) !important;
   border-bottom: 1px solid $secondary_color;
   padding-bottom: (15em/40) !important;
@@ -137,7 +175,7 @@ $secondary_color :  #785099;
 .content-area {
   background: rgba(250, 250, 250, .5);
   box-sizing: border-box;
-  padding: (10em/16) (30em/16) ;
+  padding: (10em/16) (30em/16);
 }
 
 .widget-area {
@@ -146,8 +184,35 @@ $secondary_color :  #785099;
   padding: (10em/16);
 }
 
- .widSSP{
+.widSSP {
   width: 100% !important;
+}
+
+.post {
+  margin: (40em/16) 0 0;
+  &.category-atraccion {
+    .entry-header {
+      .posted-on {
+        visibility: hidden;
+        display: none;
+      }
+    }
+    .entry-meta{
+      visibility: hidden;
+      display: none;
+    }
+    .entry-content{
+      width: 100%;
+    }
+
+    .wp-post-image{
+      width: 100%;
+    }
+  }
+}
+
+.site-header-cart .cart-contents::after {
+  //content: "f07a";
 }
 
 
@@ -211,8 +276,7 @@ $secondary_color :  #785099;
 .secondary-navigation a[href*="wordpress.com"]:after,
 .secondary-navigation a[href*="wordpress.org"]:after,
 .secondary-navigation a[href*="youtube.com"]:after,
-.secondary-navigation a[href*="twitch.tv"]:after
- {
+.secondary-navigation a[href*="twitch.tv"]:after {
   font-family: "Font Awesome 5 Brands";
   font-weight: 400;
 }
@@ -220,7 +284,7 @@ $secondary_color :  #785099;
 .secondary-navigation a[href*="mailto:"]:after,
 .secondary-navigation a[href$="/feed/"]:after,
 .secondary-navigation .home-icon-menu a:after,
-.secondary-navigation .faqs-icon-menu a:after{
+.secondary-navigation .faqs-icon-menu a:after {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
 }

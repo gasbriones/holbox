@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e03b3b2c-4c4a-4dd4-b48c-f52a0faac507" name="Default" comment="" />
+    <list default="true" id="e03b3b2c-4c4a-4dd4-b48c-f52a0faac507" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/languages/languages/plugins/woocommerce-multilingual.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/flamenco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/maya-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/storefront/assets/images/textures/asfalt-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/storefront/assets/images/textures/bg-texture-pave3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/storefront-es_MX.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/themes/storefront-es_MX.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/img/logo-full-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/storefront-homepage-contact-section/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/storefront-homepage-contact-section/assets/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/storefront-homepage-contact-section/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/storefront-homepage-contact-section/languages/storefront-homepage-contact-section.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/storefront-homepage-contact-section/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/storefront-homepage-contact-section/storefront-homepage-contact-section.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/storefront/holbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/holbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/storefront/holbox.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/holbox.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/storefront/holbox.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/holbox.scss" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,22 +53,87 @@
       <file leaf-file-name="holbox.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/holbox.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+            <state relative-caret-position="1770">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-bookings/composer.json">
+      <file leaf-file-name="storefront.pot" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/languages/storefront.pot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11295">
+              <caret line="753" column="68" selection-start-line="753" selection-start-column="68" selection-end-line="753" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loco-translate-es_MX.po" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/languages/loco/plugins/loco-translate-es_MX.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="woocommerce-multilingual.po" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/languages/languages/plugins/woocommerce-multilingual.po">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="woo-functions.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-bookings/woo-includes/woo-functions.php">
+      <file leaf-file-name="storefront-es_MX.po" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/languages/themes/storefront-es_MX.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="46" column="46" lean-forward="true" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+            <state relative-caret-position="7695">
+              <caret line="513" selection-start-line="513" selection-end-line="513" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1875">
+              <caret line="129" selection-start-line="129" selection-end-line="129" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content-homepage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-homepage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template-homepage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/template-homepage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+              <folding>
+                <element signature="e#6#422#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#6#81#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,10 +156,19 @@
       <find>secondary-navigation</find>
       <find>col-full</find>
       <find>woa_add_full_slider</find>
+      <find>Template Name:</find>
+      <find>Maximum upload file size</find>
+      <find>Cart totals</find>
+      <find>Billing details</find>
+      <find># &lt;!=Copyright (C) 2018 Automattic # This file is distributed under the GNU General Public License v2 or later.=!&gt; msgid &quot;&quot; msgstr &quot;&quot; &quot;Project-Id-Version: Storefront 2.3.2\n&quot; &quot;Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n&quot; &quot;POT-Creation-Date: 2018-05-30 15:26:14+00:00\n&quot; &quot;MIME-Version: 1.0\n&quot; &quot;Content-Type: text/plain; charset=utf-8\n&quot; &quot;Content-Transfer-Encoding: 8bit\n&quot; &quot;PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n&quot; &quot;Last-Translator: FULL NAME &lt;EMAIL@ADDRESS&gt;\n&quot; &quot;Language-Team: LANGUAGE &lt;EMAIL@ADDRESS&gt;\n&quot; &quot;X-Generator: grunt-wp-i18n1.0.2\n&quot;  #: 404.php:19 msgid &quot;Oops! That page can&amp;rsquo;t be found.&quot; msgstr &quot;&quot;  #: 404.php:22 msgid &quot;&quot; &quot;Nothing was found at this location. Try searching, or check out the links &quot; &quot;below.&quot; msgstr &quot;&quot;  #: 404.php:25 inc/woocommerce/storefront-woocommerce-template-functions.php:344 msgid &quot;Search&quot; msgstr &quot;&quot;  #: 404.php:39 msgid &quot;Promoted Products&quot; msgstr &quot;&quot;  #: 404.php:45 404.php:47 inc/storefront-template-functions.php:580 msgid &quot;Product Categories&quot; msgstr &quot;&quot;  #: 404.php:57 404.php:59 inc/storefront-template-functions.php:738 msgid &quot;Popular Products&quot; msgstr &quot;&quot;  #: comments.php:21 msgid &quot;Post Comments&quot; msgstr &quot;&quot;  #: comments.php:36 msgid &quot;Comment Navigation Above&quot; msgstr &quot;&quot;  #: comments.php:37 comments.php:55 msgid &quot;Comment navigation&quot; msgstr &quot;&quot;  #: comments.php:38 comments.php:56 msgid &quot;&amp;larr; Older Comments&quot; msgstr &quot;&quot;  #: comments.php:39 comments.php:57 msgid &quot;Newer Comments &amp;rarr;&quot; msgstr &quot;&quot;  #: comments.php:54 msgid &quot;Comment Navigation Below&quot; msgstr &quot;&quot;  #: comments.php:64 msgid &quot;Comments are closed.&quot; msgstr &quot;&quot;  #: content-none.php:14 msgid &quot;Nothing Found&quot; msgstr &quot;&quot;  #: content-none.php:20 msgid &quot;Ready to publish your first post? &lt;a href=\&quot;%1$s\&quot;&gt;Get started here&lt;/a&gt;.&quot; msgstr &quot;&quot;  #: content-none.php:24 msgid &quot;&quot; &quot;Sorry, but nothing matched your search terms. Please try again with some &quot; &quot;different keywords.&quot; msgstr &quot;&quot;  #: content-none.php:29 msgid &quot;&quot; &quot;It seems we can&amp;rsquo;t find what you&amp;rsquo;re looking for. Perhaps &quot; &quot;searching can help.&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:73 msgid &quot;Support&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:74 msgid &quot;Documentation&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:75 msgid &quot;Development blog&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:91 msgid &quot;Setup complete %sYour Storefront adventure begins now 🚀%s &quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:92 msgid &quot;&quot; &quot;One more thing... You might be interested in the following Storefront &quot; &quot;extensions and designs.&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:94 msgid &quot;&quot; &quot;Hello! You might be interested in the following Storefront extensions and &quot; &quot;designs.&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:101 msgid &quot;Storefront Extensions Bundle&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:107 msgid &quot;All the tools you'll need to define your style and customize Storefront.&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:111 msgid &quot;&quot; &quot;Make it yours without touching code with the Storefront Extensions bundle. &quot; &quot;Express yourself, optimize conversions, delight customers.&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:116 msgid &quot;Read more and purchase&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:120 msgid &quot;Alternate designs&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:124 msgid &quot;&quot; &quot;Quickly and easily transform your shops appearance with Storefront child &quot; &quot;themes.&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:128 msgid &quot;Each has been designed to serve a different industry - from fashion to food.&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:132 msgid &quot;Of course they are all fully compatible with each Storefront extension.&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:136 msgid &quot;Check 'em out&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:143 msgid &quot;An %s project&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:173 #: inc/admin/class-storefront-plugin-install.php:58 msgid &quot;Activated&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:182 #: inc/admin/class-storefront-plugin-install.php:69 msgid &quot;Activate&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:195 #: inc/admin/class-storefront-plugin-install.php:84 msgid &quot;Install now&quot; msgstr &quot;&quot;  #: inc/admin/class-storefront-admin.php:202 #: inc/admin/class-storefront-plugin-install.php:104 msgid &quot;Learn more&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:83 #: inc/nux/class-storefront-nux-starter-content.php:158 msgid &quot;Primary Menu&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:84 #: inc/nux/class-storefront-nux-starter-content.php:178 msgid &quot;Secondary Menu&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:85 #: inc/nux/class-storefront-nux-starter-content.php:188 msgid &quot;Handheld Menu&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:147 msgid &quot;Sidebar&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:153 msgid &quot;Below Header&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:155 msgid &quot;&quot; &quot;Widgets added to this region will appear beneath the header and above the &quot; &quot;main content.&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:167 msgid &quot;Footer Column %1$d&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:168 msgid &quot;Widgets added here will appear in column %1$d of the footer.&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:170 msgid &quot;Footer Row %1$d - Column %2$d&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:171 msgid &quot;Widgets added here will appear in column %1$d of footer row %2$d.&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:255 msgid &quot;Expand child menu&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:256 msgid &quot;Collapse child menu&quot; msgstr &quot;&quot;  #: inc/class-storefront.php:345 msgid &quot;Post Navigation&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer-control-more.php:28 msgid &quot;&quot; &quot;There's a range of %s extensions available to put additional power in your &quot; &quot;hands. Check out the %s%s%s page in your dashboard for more information.&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer-control-more.php:31 msgid &quot;Enjoying %s?&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer-control-more.php:34 msgid &quot;Why not leave us a review on %sWordPress.org%s?  We'd really appreciate it!&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:141 msgid &quot;Background&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:145 msgid &quot;Header&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:183 msgid &quot;Typography&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:196 #: inc/customizer/class-storefront-customizer.php:349 msgid &quot;Heading color&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:211 #: inc/customizer/class-storefront-customizer.php:295 #: inc/customizer/class-storefront-customizer.php:364 #: inc/customizer/class-storefront-customizer.php:418 msgid &quot;Text color&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:226 msgid &quot;Link / accent color&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:241 msgid &quot;Hero heading color&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:257 msgid &quot;Hero text color&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:267 msgid &quot;Header background image&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:280 #: inc/customizer/class-storefront-customizer.php:334 #: inc/customizer/class-storefront-customizer.php:403 msgid &quot;Background color&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:310 #: inc/customizer/class-storefront-customizer.php:379 msgid &quot;Link color&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:320 msgid &quot;Footer&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:322 msgid &quot;Customize the look &amp; feel of your website footer.&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:389 msgid &quot;Buttons&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:391 msgid &quot;Customize the look &amp; feel of your website buttons.&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:433 msgid &quot;Alternate button background color&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:448 msgid &quot;Alternate button text color&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:458 msgid &quot;Layout&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:470 msgid &quot;General Layout&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:482 msgid &quot;Product Page&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:499 msgid &quot;Sticky Add-To-Cart&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:500 msgid &quot;&quot; &quot;A small content bar at the top of the browser window which includes &quot; &quot;relevant product information and an add-to-cart button. It slides into view &quot; &quot;once the standard add-to-cart button has scrolled out of view.&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:507 msgid &quot;Product Pagination&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:508 msgid &quot;&quot; &quot;Displays next and previous links on product pages. A product thumbnail is &quot; &quot;displayed with the title revealed on hover.&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:517 msgid &quot;More&quot; msgstr &quot;&quot;  #: inc/customizer/class-storefront-customizer.php:527 msgid &quot;Looking for more options?&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:84 msgid &quot;Thanks for installing Storefront, you rock! 🤘&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:85 msgid &quot;To enable eCommerce features you need to install the WooCommerce plugin.&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:86 msgid &quot;WooCommerce activated&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:86 msgid &quot;Activate WooCommerce&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:86 msgid &quot;Install WooCommerce&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:90 msgid &quot;Design your store 🎨&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:94 msgid &quot;&quot; &quot;Before you add your first product let's design your store. We'll add some &quot; &quot;example products for you. When you're ready let's get started by adding &quot; &quot;your logo.&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:96 msgid &quot;&quot; &quot;You've set up WooCommerce, now it's time to give it some style! Let's get &quot; &quot;started by entering the Customizer and adding your logo.&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:116 msgid &quot;Apply the Storefront homepage template&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:118 msgid &quot;Create a homepage using Storefront's homepage template&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:126 msgid &quot;Add example products&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-admin.php:131 #: inc/nux/class-storefront-nux-guided-tour.php:111 msgid &quot;Let's go!&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:83 msgid &quot;Next&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:89 msgid &quot;No thanks, skip the tour&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:91 msgid &quot;Skip this step&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:109 msgid &quot;Welcome to the Customizer&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:110 msgid &quot;&quot; &quot;Here you can control the overall look and feel of your store.%sTo get &quot; &quot;started, let's add your logo&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:117 msgid &quot;Add your logo&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:118 msgid &quot;&quot; &quot;Open the Site Identity Panel, then click the 'Select Logo' button to upload &quot; &quot;your logo.&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:124 msgid &quot;Customize your navigation menus&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:125 msgid &quot;Organize your menus by adding Pages, Categories, Tags, and Custom Links.&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:130 msgid &quot;Choose your accent color&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:131 msgid &quot;&quot; &quot;In the typography panel you can specify an accent color which will be &quot; &quot;applied to things like links and star ratings. We recommend using your &quot; &quot;brand color for this setting.&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:136 msgid &quot;Color your buttons&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:137 msgid &quot;&quot; &quot;Choose colors for your button backgrounds and text. Once again, brand &quot; &quot;colors are good choices here.&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:143 msgid &quot;&quot; &quot;All set! Remember to %ssave &amp; publish%s your changes when you're done.%sYou &quot; &quot;can return to your dashboard by clicking the X in the top left corner.&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-guided-tour.php:145 msgid &quot;Done&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:60 msgid &quot;Welcome&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:61 msgid &quot;&quot; &quot;This is your homepage which is what most visitors will see when they first &quot; &quot;visit your shop.%sYou can change this text by editing the \&quot;Welcome\&quot; page &quot; &quot;via the \&quot;Pages\&quot; menu in your dashboard.&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:67 msgid &quot;About&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:68 msgid &quot;&quot; &quot;You might be an artist who would like to introduce yourself and your work &quot; &quot;here or maybe you&amp;rsquo;re a business with a mission to describe.&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:72 msgid &quot;Contact&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:73 msgid &quot;&quot; &quot;This is a page with some basic contact information, such as an address and &quot; &quot;phone number. You might also try a plugin to add a contact form.&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:608 msgid &quot;Accessories&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:609 #: inc/nux/class-storefront-nux-starter-content.php:612 #: inc/nux/class-storefront-nux-starter-content.php:615 msgid &quot;A short category description&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:611 msgid &quot;Hoodies&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:614 msgid &quot;Tshirts&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:620 msgid &quot;Beanie&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:643 msgid &quot;Belt&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:665 msgid &quot;Cap&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:687 msgid &quot;Sunglasses&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:708 msgid &quot;Hoodie with Logo&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:729 msgid &quot;Hoodie with Pocket&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:751 msgid &quot;Hoodie with Zipper&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:772 msgid &quot;Hoodie&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:794 msgid &quot;Long Sleeve Tee&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:815 msgid &quot;Polo&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:836 msgid &quot;Tshirt&quot; msgstr &quot;&quot;  #: inc/nux/class-storefront-nux-starter-content.php:857 msgid &quot;Vneck Tshirt&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:48 msgid &quot;Your comment is awaiting moderation.&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:64 msgid &quot;Edit&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:136 msgid &quot;WooCommerce - The Best eCommerce Platform for WordPress&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:136 msgid &quot;Built with Storefront &amp;amp; WooCommerce&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:238 msgid &quot;Primary Navigation&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:239 msgid &quot;Menu&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:270 msgid &quot;Secondary Navigation&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:294 msgid &quot;Skip to navigation&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:295 msgid &quot;Skip to content&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:307 msgid &quot;Edit this section&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:348 #: inc/storefront-template-functions.php:411 msgid &quot;Pages:&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:403 msgid &quot;Continue reading %s&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:435 msgid &quot;Written by&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:441 #: inc/storefront-template-functions.php:454 #. translators: used between list items, there is a space after the comma msgid &quot;, &quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:446 msgid &quot;Posted in&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:459 msgid &quot;Tagged&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:469 msgid &quot;Comments&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:470 msgid &quot;Leave a comment&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:470 msgid &quot;1 Comment&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:470 msgid &quot;% Comments&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:501 msgid &quot;Next post:&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:502 msgid &quot;Previous post:&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:565 msgid &quot;Shop by Category&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:617 msgid &quot;New In&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:632 msgid &quot;Recent Products&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:670 msgid &quot;We Recommend&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:686 #: inc/woocommerce/storefront-woocommerce-template-functions.php:261 msgid &quot;Featured Products&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:723 msgid &quot;Fan Favorites&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:776 msgid &quot;On Sale&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:792 msgid &quot;On Sale Products&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:828 msgid &quot;Best Sellers&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:843 msgid &quot;Best Selling Products&quot; msgstr &quot;&quot;  #: inc/woocommerce/storefront-woocommerce-template-functions.php:74 #: inc/woocommerce/storefront-woocommerce-template-functions.php:357 msgid &quot;View your shopping cart&quot; msgstr &quot;&quot;  #: inc/woocommerce/storefront-woocommerce-template-functions.php:75 msgid &quot;%d item&quot; msgid_plural &quot;%d items&quot; msgstr[0] &quot;&quot; msgstr[1] &quot;&quot;  #: inc/woocommerce/storefront-woocommerce-template-functions.php:269 msgid &quot;On Sale Now&quot; msgstr &quot;&quot;  #: inc/woocommerce/storefront-woocommerce-template-functions.php:277 msgid &quot;New In Store&quot; msgstr &quot;&quot;  #: inc/woocommerce/storefront-woocommerce-template-functions.php:371 msgid &quot;My Account&quot; msgstr &quot;&quot;  #: inc/woocommerce/storefront-woocommerce-template-functions.php:406 msgid &quot;More products&quot; msgstr &quot;&quot;  #: inc/woocommerce/storefront-woocommerce-template-functions.php:449 msgid &quot;You're viewing:&quot; msgstr &quot;&quot;  #: inc/woocommerce/storefront-woocommerce-template-functions.php:483 msgid &quot;Shop by Brand&quot; msgstr &quot;&quot;  #: inc/woocommerce/storefront-woocommerce-template-functions.php:493 msgid &quot;Product Brands&quot; msgstr &quot;&quot;  #: search.php:16 msgid &quot;Search Results for: %s&quot; msgstr &quot;&quot;  #. Theme Name of the plugin/theme msgid &quot;Storefront&quot; msgstr &quot;&quot;  #. Theme URI of the plugin/theme msgid &quot;https://woocommerce.com/storefront/&quot; msgstr &quot;&quot;  #. Description of the plugin/theme msgid &quot;&quot; &quot;Storefront is the perfect theme for your next WooCommerce project. Designed &quot; &quot;and developed by WooCommerce Core developers, it features a bespoke &quot; &quot;integration with WooCommerce itself plus many of the most popular customer &quot; &quot;facing WooCommerce extensions. There are several layout &amp; color options to &quot; &quot;personalise your shop, multiple widget regions, a responsive design and &quot; &quot;much more. Developers will love its lean and extensible codebase making it &quot; &quot;a joy to customize and extend. Looking for a WooCommerce theme? Look no &quot; &quot;further!&quot; msgstr &quot;&quot;  #. Author of the plugin/theme msgid &quot;Automattic&quot; msgstr &quot;&quot;  #. Author URI of the plugin/theme msgid &quot;https://woocommerce.com/&quot; msgstr &quot;&quot;  #. Template Name of the plugin/theme msgid &quot;Full width&quot; msgstr &quot;&quot;  #. Template Name of the plugin/theme msgid &quot;Homepage&quot; msgstr &quot;&quot;  #: comments.php:28 msgctxt &quot;comments title&quot; msgid &quot;One thought on &amp;ldquo;%2$s&amp;rdquo;&quot; msgid_plural &quot;%1$s thoughts on &amp;ldquo;%2$s&amp;rdquo;&quot; msgstr[0] &quot;&quot; msgstr[1] &quot;&quot;  #: inc/storefront-template-functions.php:487 msgctxt &quot;Next post&quot; msgid &quot;Next&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:488 msgctxt &quot;Previous post&quot; msgid &quot;Previous&quot; msgstr &quot;&quot;  #: inc/storefront-template-functions.php:526 msgctxt &quot;post date&quot; msgid &quot;Posted on %s&quot; msgstr &quot;&quot;</find>
+      <find>Código de cupón</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/wp-content/node_modules/susy/sass</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -95,10 +208,12 @@
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/content.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/content-single.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/header.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/template-homepage.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/content-homepage.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/holbox.scss" />
+        <option value="$PROJECT_DIR$/wp-content/languages/themes/storefront-es_MX.po" />
+        <option value="$PROJECT_DIR$/wp-content/themes/storefront/languages/storefront.pot" />
       </list>
     </option>
   </component>
@@ -112,6 +227,9 @@
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/wp-content/node_modules/bourbon/package.json" />
       <path value="$PROJECT_DIR$/wp-content/node_modules/susy/package.json" />
+      <path value="$PROJECT_DIR$/wp-content/plugins/arconix-faq/includes/metabox/package.json" />
+      <path value="$PROJECT_DIR$/wp-content/plugins/pootle-page-builder/package.json" />
+      <path value="$PROJECT_DIR$/wp-content/plugins/pootle-page-builder/wp-sdk/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
@@ -119,6 +237,7 @@
     <option name="width" value="1440" />
     <option name="height" value="798" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -131,6 +250,75 @@
             <path>
               <item name="holboxtours" type="b2602c69:ProjectViewProjectNode" />
               <item name="holboxtours" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holboxtours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holboxtours" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holboxtours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holboxtours" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holboxtours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holboxtours" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holboxtours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holboxtours" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holboxtours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holboxtours" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
+              <item name="loco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holboxtours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holboxtours" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
+              <item name="loco" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holboxtours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holboxtours" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holboxtours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holboxtours" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holboxtours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holboxtours" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="storefront" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holboxtours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holboxtours" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="storefront" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,14 +333,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/languages/languages/plugins" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/storefront/assets/images/textures" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/storefront/assets/sass" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/storefront" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/languages/languages/plugins" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site" />
       <recent name="$PROJECT_DIR$/wp-content/plugins" />
       <recent name="$PROJECT_DIR$/wp-content/themes/storefront/assets" />
       <recent name="$PROJECT_DIR$/wp-content/themes/storefront-master" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/wp-content/themes/storefront/assets/sass" />
-      <recent name="$PROJECT_DIR$/wp-content/themes/storefront" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -188,12 +381,19 @@
       <workItem from="1529361986021" duration="1024000" />
       <workItem from="1529648292755" duration="7953000" />
       <workItem from="1529684338649" duration="1595000" />
-      <workItem from="1529946305314" duration="553000" />
+      <workItem from="1529946305314" duration="3455000" />
+      <workItem from="1529964025637" duration="2669000" />
+      <workItem from="1530041916058" duration="538000" />
+      <workItem from="1530241882371" duration="132000" />
+      <workItem from="1530242418972" duration="49272000" />
+      <workItem from="1530376577742" duration="704000" />
+      <workItem from="1530507363251" duration="5346000" />
+      <workItem from="1530908596287" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51320000" />
+    <option name="totallyTimeSpent" value="112887000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -205,18 +405,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="798" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="798" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37982833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23962805" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.32952926" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30955777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.32952926" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" weight="0.32952926" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -231,19 +431,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.369814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30955777" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.32952926" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32952926" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -260,123 +460,6 @@
     <find-history />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/wishlists.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/variation-swatches.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/smart-coupons.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/ship-multiple-addresses.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/quick-view.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/product-reviews-pro.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/photography.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/mix-and-match.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/memberships.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/deposits.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/composite-products.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/sass/vendors/_normalize.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/sass/vendors/_modular-scale.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/sass/utils/_variables.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/sass/utils/_mixins.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/advanced-product-labels.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/ajax-layered-nav.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/bookings.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/extensions/brands.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront-master/assets/css/woocommerce/woocommerce.scss" />
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/sass/base/icons.css" />
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/storefront-product-hero/assets/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/sass/utils/_mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/sass/utils/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/footer.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-none.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/template-fullwidth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" column="6" selection-start-line="26" selection-end-line="26" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-template-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3330">
-          <caret line="226" column="1" selection-start-line="226" selection-start-column="1" selection-end-line="226" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-functions.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -400,25 +483,11 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/customizer/class-storefront-customizer.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-homepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-bookings/woocommmerce-bookings.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-hooks.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/template-homepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="52" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="52" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -430,22 +499,205 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/class-storefront.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/holbox.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-bookings/composer.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-bookings/woo-includes/woo-functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
           <caret line="46" column="46" lean-forward="true" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-bookings/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/credit-cards/amex.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/credit-cards/diners.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/credit-cards/discover.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/credit-cards/unknown.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/credit-cards/paypal.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/margarita-svgrepo-com (1).svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/mexican-hat-svgrepo-com.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/mexican-mask-svgrepo-com.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/panpipes-svgrepo-com.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/pinata-svgrepo-com.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/tortilla-svgrepo-com.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/tequila-bottle-svgrepo-com.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/corn-svgrepo-com.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/cactus-svgrepo-com.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/chili-sauce-svgrepo-com.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/margarita-svgrepo-com.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/maya-pyramid-svgrepo-com.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/page.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/search.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="6" selection-start-line="26" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/template-fullwidth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/robo-gallery/includes/extensions/backup/backup.form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="29" column="63" lean-forward="true" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/media-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="232" column="33" selection-start-line="232" selection-start-column="33" selection-end-line="232" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#6#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/template-homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="e#6#422#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/content-homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/assets/images/site/flamenco.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/holbox.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/themes/storefront-es_MX.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7695">
+          <caret line="513" selection-start-line="513" selection-end-line="513" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/languages/storefront.pot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11295">
+          <caret line="753" column="68" selection-start-line="753" selection-start-column="68" selection-end-line="753" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/loco/plugins/loco-translate-es_MX.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/languages/plugins/woocommerce-multilingual.po">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

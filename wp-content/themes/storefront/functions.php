@@ -126,3 +126,4 @@ function custom_storefront_credit() {
 }
 
 add_post_type_support( 'page', 'excerpt' );
+

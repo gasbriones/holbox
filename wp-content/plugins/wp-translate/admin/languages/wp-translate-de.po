@@ -1,0 +1,345 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Translate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-08 16:06-0800\n"
+"PO-Revision-Date: 2015-03-08 16:18-0800\n"
+"Last-Translator: Tyson Hahn <tysons_music@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\ThemeFactory\\wp-content\\plugins\\wp-translate\\admin\n"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:26
+msgid "WP Translate settings have been saved."
+msgstr "WP Translate einstellungen gespeichert wurden."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:33
+#, fuzzy
+msgid "WP Translate"
+msgstr "WP Translate - Einstellungen"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:35
+msgid "WP Translate - Settings"
+msgstr "WP Translate - Einstellungen"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:36
+msgid "Default Language"
+msgstr "Default Sprache"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:37
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:116
+msgid "Try WP Translate Pro"
+msgstr "Try WP Translate Pro"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:43
+msgid "Detect language"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:44
+msgid "Afrikaans"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:45
+msgid "Albanian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:46
+msgid "Arabic"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:47
+msgid "Armenian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:48
+msgid "Azerbaijani"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:49
+msgid "Basque"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:50
+msgid "Belarusian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:51
+msgid "Bulgarian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:52
+msgid "Catalan"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:53
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:54
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:55
+msgid "Croatian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:56
+msgid "Czech"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:57
+msgid "Danish"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:58
+msgid "Dutch"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:59
+msgid "English"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:60
+msgid "Estonian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:61
+msgid "Filipino"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:62
+msgid "Finnish"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:63
+msgid "French"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:64
+msgid "Galician"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:65
+msgid "Georgian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:66
+msgid "German"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:67
+msgid "Greek"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:68
+msgid "Haitian Creole"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:69
+msgid "Hebrew"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:70
+msgid "Hindi"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:71
+msgid "Hungarian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:72
+msgid "Icelandic"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:73
+msgid "Indonesian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:74
+msgid "Irish"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:75
+msgid "Italian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:76
+msgid "Japanese"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:77
+msgid "Korean"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:78
+msgid "Latvian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:79
+msgid "Lithuanian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:80
+msgid "Macedonian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:81
+msgid "Malay"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:82
+msgid "Maltese"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:83
+msgid "Norwegian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:84
+msgid "Persian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:85
+msgid "Polish"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:86
+msgid "Portuguese"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:87
+msgid "Romanian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:88
+msgid "Russian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:89
+msgid "Serbian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:90
+msgid "Slovak"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:91
+msgid "Slovenian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:92
+msgid "Spanish"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:93
+msgid "Swahili"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:94
+msgid "Swedish"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:95
+msgid "Thai"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:96
+msgid "Turkish"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:97
+msgid "Ukrainian"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:98
+msgid "Urdu"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:99
+msgid "Vietnamese"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:100
+msgid "Welsh"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:101
+msgid "Yiddish"
+msgstr ""
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:103
+msgid "Translation Tracking - Google Analytics"
+msgstr "Übersetzung Verfolgung - Google Analytics"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:104
+msgid "Tracking enabled"
+msgstr "Tracking aktiviert"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:106
+msgid "Tracking ID (UA#)"
+msgstr "Tracking ID (UA#)"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:108
+msgid "Exclude Mobile Browsers from Translations"
+msgstr "Ausschließen mobile Browser von Übersetzungen"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:109
+msgid "Exclude Mobile Browsers"
+msgstr "Ausschließen mobilen Browsern"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:110
+msgid "Translation Toolbar Auto Display"
+msgstr "Übersetzung Werkzeugleiste Anzeige"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:111
+msgid "Toolbar Auto Display"
+msgstr "Übersetzung Werkzeugleiste Anzeige"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:112
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:116
+msgid "Pro features include: Enhanced widget positioning and ad free"
+msgstr "Pro Funktionen: Verbesserte Widget Positionierung und werbefrei"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:117
+msgid "Try WP Easy Gallery Pro"
+msgstr "Try WP Easy Gallery Pro"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:117
+msgid "Pro Features include: Multi-image uploader, Enhanced admin section for easier navigation, Image preview pop-up, and more"
+msgstr "Pro Eigenschaften umfassen: mehrere Bild Uploader, erweiterte Adminbereich für eine einfachere Navigation, Bildvorschau Pop-up und mehr"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:119
+msgid "Try Custom Post Donations Pro"
+msgstr "Try Custom Post Donations Pro"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:119
+msgid "This WordPress plugin will allow you to create unique customized PayPal donation widgets to insert into your WordPress posts or pages and accept donations. Features include: Multiple Currencies, Multiple PayPal accounts, Custom donation form display titles, and more."
+msgstr "Das Wordpress-Plugin ermöglicht es Ihnen, einzigartige kundenspezifische PayPal Spende Formen in Ihre Wordpress Beiträge oder Seiten einfügen und akzeptieren, Spenden zu erstellen. Eigenschaften umfassen: mehrere Währungen, mehrere PayPal-Konten, Kundenspendenformular Display-Titel, und mehr."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:121
+msgid "Try ReFlex Gallery Pro"
+msgstr "Try ReFlex Gallery Pro"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:121
+msgid "ReFlex Gallery is a fully responsive WordPress image gallery plugin that is actually two galleries in one."
+msgstr "ReFlex Gallery ist ein voll reaktionsBildGalerie Wordpress-Plugin, das zwei verschiedene Galerie Plugin in einem ist."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:123
+msgid "Try Email Obfuscate"
+msgstr "Try Email Obfuscate"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:123
+msgid "Email Obfuscate is a Lightweight WordPress/jQuery plugin that prevents spam-bots from harvesting your email addresses by dynamically obfuscating email addresses on your site."
+msgstr "Email Obfuscate ist ein Leichtgewicht Wordpress / jQuery-Plugin, das Spam-Bots verhindert Ernte Ihre E-Mail-Adressen durch dynamische Verschleierung E-Mail-Adressen auf Ihrer Website."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\wp-translate\admin/overview.php:125
+msgid "Please consider making a donatation for the continued development of this plugin. Thank you."
+msgstr "Bitte denke über eine Spende für die weitere Entwicklung dieses Plugins. Danke."
+

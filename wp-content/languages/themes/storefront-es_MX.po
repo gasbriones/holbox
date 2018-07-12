@@ -508,3 +508,6 @@ msgstr "https://woocommerce.com/"
 #. Author of the plugin/theme
 msgid "WooThemes"
 msgstr "WooThemes"
+
+msgid "Cart totals"
+msgstr "Compra total"
