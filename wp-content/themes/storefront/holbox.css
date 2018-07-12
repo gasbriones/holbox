@@ -1,3 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+html, body {
+  font-family: Poppins,Helvetica,Arial,sans-serif;
+  font-size: 1em; }
+
 @media (min-width: 768px) {
   .site-header {
     padding-top: 1em;
@@ -9,7 +14,7 @@
   .storefront-breadcrumb {
     margin: 0 !important; }
     .storefront-breadcrumb nav {
-      background: #584193;
+      background: #d65cbb;
       box-sizing: border-box;
       padding: 0.7142857143em;
       color: white; }
@@ -20,14 +25,16 @@
 .site-header .main-navigation ul.nav-menu {
   margin-left: 0; }
   .site-header .main-navigation ul.nav-menu li {
-    border-right: solid 1px #584193;
+    border-right: solid 1px #d65cbb;
     width: 20%;
     text-align: center; }
+    .site-header .main-navigation ul.nav-menu li.current-menu-item {
+      background: rgba(214, 92, 187, 0.05) !important; }
     .site-header .main-navigation ul.nav-menu li a {
+      font-size: 0.9375em;
       line-height: initial;
-      padding-top: 0.625em;
-      padding-bottom: 0.625em;
-      color: #584193; }
+      padding: 0.6em 0.3333333333em;
+      color: #d65cbb; }
     .site-header .main-navigation ul.nav-menu li:last-child {
       border-right: none; }
     .site-header .main-navigation ul.nav-menu li:first-child {
@@ -35,7 +42,7 @@
       .site-header .main-navigation ul.nav-menu li:first-child:before {
         content: 'QUIERO';
         position: absolute;
-        background: #584193;
+        background: #d65cbb;
         color: #fff;
         left: -75%;
         top: 0;
@@ -52,8 +59,8 @@
         width: 0;
         height: 0;
         border-style: solid;
-        border-width: 30px 0 30px 19px;
-        border-color: transparent transparent transparent #584193;
+        border-width: 2em 0 2em 1.1875em;
+        border-color: transparent transparent transparent #d65cbb;
         content: ""; }
 .site-header .site-header-cart .cart-contents {
   padding-top: 1.0625em;
@@ -65,10 +72,10 @@
   .site-footer .widget ul {
     list-style: circle; }
   .site-footer .widget-title {
-    border-bottom: 1px solid white;
     position: relative;
     text-indent: 1.8181818182em;
-    padding: 0 0 0.4545454545em; }
+    padding: 0;
+    font-size: 1.1875em; }
     .site-footer .widget-title:before {
       position: absolute;
       content: "";
@@ -94,10 +101,19 @@
 
 .entry-title:not(.alpha) {
   font-size: 2.5em !important;
-  border-bottom: 1px solid #785099;
+  border-bottom: 1px solid #96588a;
   padding-bottom: 0.375em !important;
   margin-bottom: 0.375em !important;
-  color: #584193; }
+  color: #d65cbb;
+  font-weight: bold; }
+
+.alpha a {
+  color: #1f1f1f !important;
+  font-size: 0.8em !important; }
+
+.storefront-product-section .section-title {
+  font-weight: bold;
+  color: #1f1f1f; }
 
 .page-template-template-homepage .type-page {
   padding-top: 0; }
@@ -127,6 +143,15 @@
     width: 100%; }
   .post.category-atraccion .wp-post-image {
     width: 100%; }
+
+.woocommerce .products .product img {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15); }
+.woocommerce .products .product .price ins {
+  font-size: 1.4em;
+  font-weight: 400;
+  color: #d65cbb; }
+.woocommerce .star-rating span:before {
+  color: #ffc741; }
 
 .secondary-navigation a[href*="dribbble.com"],
 .secondary-navigation a[href*="facebook.com"],
